@@ -1,2 +1,3 @@
 "Learning Git commits" 
 "Added explanation of commits in Git" 
+"Git helps maintain project history efficiently" 
