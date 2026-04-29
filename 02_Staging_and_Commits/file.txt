@@ -1,1 +1,2 @@
 "Learning Git commits" 
+"Added explanation of commits in Git" 
