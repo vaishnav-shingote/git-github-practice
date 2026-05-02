@@ -1,1 +1,1 @@
-"Login Feature - Updated by feature B" 
+"Login Feature" 
