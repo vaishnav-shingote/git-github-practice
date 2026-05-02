@@ -1,0 +1,26 @@
+# Day 5 - Merge Conflicts
+
+## What is Merge Conflicts
+A merge conflict occurs when two branches modify the same file and same line differently.
+
+## Why it happens?
+- Same file 
+- Same line
+- Different chages
+
+## How to resolve?
+1. Open the conflicted file
+2. Look for conflict markers (<<<<, ====, >>>>)
+3. Edit and keep correct content
+4. Remove markers
+5. git add file
+6. git commit
+
+## Example:
+Feature-A ---> "Login Feature - A version"
+Feature-B ---> "Login Feature - B version"
+
+Final ---> "Login Feature - A and B combined"
+
+## Key Learning:
+Merge conflicts are normal in team projects and must be resolved manually.
