@@ -1,20 +1,13 @@
-\# Advanced Git
+# Advanced Git
 
-
-
-\## git stash
+## git stash
 
 Temporarily save changes
 
-
-
-\## git rebase
+## git rebase
 
 Rewrites commit history
 
-
-
-\## .gitignore
+## .gitignore
 
 Ignore unnecessary files
-
